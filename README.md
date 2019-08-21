@@ -32,4 +32,4 @@ The module can only be used when the following conditions are met:
 2. In main folder, execute `pip3 install -r requirements.txt` (Recommended to do this within a Python Virtual Environment. The requirement.txt should work with a python 3.6.8+ version )
 3. Download for the correct service account the corresponding '.json' file containing the service account key and add it to the main folder of this repository
 4. If you need to use backup metadata to upload to BigQuery and Data Catalog add Excel '.xlsx' files containing the metadata to the 'backup_sheets' folder of this repository. For each dataset there must be a separate backup '.xlsx' file that must be copied in a subfolder of the folder 'backup_sheets'. Both the subfolder name and the '.xlsx' backup file name must specify the dataset ID of the BigQuery dataset of which metadata for tables shall be uploaded.
-5. call `jupyter notebook` from a (Power)shell within the main folder of the repository and open one of the Jupyter scripts.
+5. Call `jupyter notebook` from a (Power)shell within the main folder of the repository and open one of the Jupyter scripts.
