@@ -56,7 +56,7 @@ pytz==2019.2
 pyzmq==18.1.0
 qtconsole==4.5.3
 requests==2.22.0
-rsa==4.1
+rsa==4.7
 Send2Trash==1.5.0
 six==1.12.0
 terminado==0.8.2
