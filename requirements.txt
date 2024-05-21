@@ -55,7 +55,7 @@ python-dateutil==2.8.0
 pytz==2019.2
 pyzmq==18.1.0
 qtconsole==4.5.3
-requests==2.31.0
+requests==2.32.0
 rsa==4.7
 Send2Trash==1.5.0
 six==1.12.0
